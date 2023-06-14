@@ -2,7 +2,7 @@
 
 I am Heri Irianto
 
-I live in Makassar and studying Informatics Engineering. I developed myself excellent in Graphic Design and Augmented Reality. But now, i’m currently learning about web programming especially front-end developer and back-end developer (Full stack developer) in the last few months and use that skill to improve myself better again. Because my mission is to learn and grow! So that one day I'll be able to contribute to the tech industry.
+A fresh graduate of Informatics Engineering. I developed myself in Graphic Design and Augmented Reality. But now, i’m currently learning about web programming especially front-end developer and back-end developer (Full stack developer) in the last few months and use that skill to improve myself better again. Because my mission is to learn and grow.
 
 ### Languages and Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
